@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Profenzy
 - 👀 I’m interested in gaming,esports and coding
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m an ADOBE Certified Professional
 - 📫 Email me @bacruz.prof@gmail.com
 
 <!---
